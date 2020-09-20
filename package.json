@@ -1,0 +1,11 @@
+{
+  "name": "cybx-prettier-config",
+  "version": "1.0.0",
+  "description": "The prettier config for Cybx",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cybrnx/prettier-config.git"
+  },
+  "private": true
+}
